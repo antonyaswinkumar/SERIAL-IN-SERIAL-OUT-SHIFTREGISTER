@@ -2,6 +2,7 @@
 
 **AIM:**
 
+To implement SISO Shift Register using verilog and validating their functionality using their functional tables
 
 **SOFTWARE REQUIRED:**
 
@@ -49,4 +50,4 @@ Developed by: RegisterNumber:25015904
 
 **RESULTS:**
 
-Thus, the program to implement 
+Thus, the program to implement SISO Shift Register using verilog and validating their functionality using their functional tables is executed successfully.
